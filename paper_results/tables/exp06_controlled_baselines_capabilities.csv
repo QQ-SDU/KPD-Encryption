@@ -1,0 +1,4 @@
+Method,UsesOrderedKPDRepresentation,IndependentGroupProtection,SelectiveGroupAuthorization,ProgressiveKeyRelease,PartialGroupRecoveryWithoutOtherKeys,AccessGranularity,Tradeoff
+Direct image,0,0,0,0,0,Whole image,No KPD representation; one protection unit
+Monolithic KPD,1,0,0,0,0,Whole KPD stream,Keeps KPD representation but removes group-level access
+Group-wise KPD,1,1,1,1,1,Individual ordered KPD group,Adds key/protection-unit overhead for fine-grained access

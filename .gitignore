@@ -1,0 +1,37 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.mex*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Representation caches
+representation/cache/
+
+# Generated experiment outputs
+results/raw/*
+results/tables/*
+results/figures/*
+results/images/*
+!results/raw/.gitkeep
+!results/tables/.gitkeep
+!results/figures/.gitkeep
+!results/images/.gitkeep
+
+# Downloaded third-party datasets
+data/USC_SIPI/color_256/*.tif
+data/USC_SIPI/color_256/*.tiff
+data/USC_SIPI/color_512/*.tif
+data/USC_SIPI/color_512/*.tiff
+data/USC_SIPI/gray_256/*.tif
+data/USC_SIPI/gray_256/*.tiff
+data/USC_SIPI/gray_512/*.tif
+data/USC_SIPI/gray_512/*.tiff
+data/Kodak_original/
+data/Kodak_256/

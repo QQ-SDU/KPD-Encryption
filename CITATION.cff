@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "KPD-Encryption: Ordered CLSA-KPD image representation with group-wise protection"
+type: software
+authors:
+  - family-names: "Qi"
+    given-names: "Qi"
+  - family-names: "Cheng"
+    given-names: "Daizhan"
+  - family-names: "Feng"
+    given-names: "Jun-e"
+repository-code: "https://github.com/QQ-SDU/KPD-Encryption"
+date-released: 2026-09-04
